@@ -29,4 +29,4 @@ This is a Java-based Speaking Clock application that converts 24-hour time into 
 
 ```bash
 git https://github.com/vaishalisoni14/Speaking_clock.git
-cd speaking_clock
+cd Speaking_clock
